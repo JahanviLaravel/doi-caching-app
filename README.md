@@ -3,7 +3,7 @@ Technologies used:
 Laravel Framework 10.2
 PHP 8.2
 
-Seteps to follow:
+Steps to follow:
 
 1. Clone the Repository:
 2. Navigate to the folder
